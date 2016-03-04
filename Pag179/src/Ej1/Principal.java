@@ -19,6 +19,8 @@ public class Principal {
 		primitiva.generarPrimitiva();
 		primitiva.mostrarPrimitiva();
 
+//		Comentario para el ejercicio de GitHub
+		
 	}
 
 }
